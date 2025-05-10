@@ -4,7 +4,7 @@ A responsive personal portfolio website built using **HTML** and **CSS**. It sho
 
 ## 🔗 Demo
 
-[Live Demo](#) *(Update this with your GitHub Pages or Netlify link)*
+[Live Demo](https://heyvishusri.github.io/HTML-Project/) 
 
 ---
 
