@@ -30,7 +30,8 @@ A responsive personal portfolio website built using **HTML** and **CSS**. It sho
 
 ## 📷 Screenshots
 
-*(Add screenshots or GIFs here)*
+*![image](https://github.com/user-attachments/assets/8354ca11-adc7-4d9e-bbc2-c9c2ade99b69)
+*
 
 ---
 
